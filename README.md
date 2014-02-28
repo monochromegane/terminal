@@ -22,10 +22,10 @@ if terminal.IsTerminal(os.Stdout) {
 
 ## Support OS
 
-- Mac OS X (CGO or Not CGO)
+- Mac OS X (CGO and Not CGO)
 - Linux
 - Windows
-
+- FreeBSD (CGO and Not CGO)
 
 ## Contributing
 
